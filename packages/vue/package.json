@@ -1,0 +1,22 @@
+{
+  "name": "@nonius-software/vue",
+  "files": ["dist"],
+  "main": "./dist/my-lib.umd.js",
+  "module": "./dist/my-lib.es.js",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/my-lib.es.js",
+      "require": "./dist/my-lib.umd.js"
+    }
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vue": "^3.2.16",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}

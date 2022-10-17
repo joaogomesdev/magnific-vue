@@ -1,0 +1,4 @@
+{
+  "extends": "@nonius-software/ts-config/base.json",
+  "include": ["src"]
+}
