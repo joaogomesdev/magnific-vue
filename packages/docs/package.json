@@ -1,19 +1,16 @@
 {
-  "name": "docs",
+  "name": "@nonius-software/docs",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "storybook": "start-storybook -p 6006",
+    "dev": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
   "dependencies": {
     "vue": "^3.2.37"
   },
   "devDependencies": {
+    "@nonius-software/vue": "*",
     "@babel/core": "^7.19.3",
     "@storybook/addon-actions": "^6.5.12",
     "@storybook/addon-essentials": "^6.5.12",

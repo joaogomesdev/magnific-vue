@@ -8,10 +8,12 @@
     ".": {
       "import": "./dist/my-lib.es.js",
       "require": "./dist/my-lib.umd.js"
-    }
+    },
+    "./dist/style.css": "./dist/style.css"
   },
   "version": "1.0.0",
   "scripts": {
+    "dev": "vite build --watch",
     "build": "vite build"
   },
   "devDependencies": {
