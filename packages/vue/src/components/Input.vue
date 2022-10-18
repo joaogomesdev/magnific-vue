@@ -11,8 +11,8 @@
 <style>
 .my-input {
   padding: 20px;
-  background-color: #121214;
-  color: #FFF;
+  background-color: #FFF;
+  color: #121214;
   border-radius: 8px;
 }
 </style>
