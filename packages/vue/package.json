@@ -1,5 +1,5 @@
 {
-  "name": "@nonius-software/vue",
+  "name": "@my-package-name/vue",
   "files": ["dist"],
   "main": "./dist/my-lib.umd.js",
   "module": "./dist/my-lib.es.js",

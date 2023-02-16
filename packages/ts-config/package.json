@@ -1,5 +1,5 @@
 {
-  "name": "@nonius-software/ts-config",
+  "name": "@my-package-name/ts-config",
   "version": "1.0.0",
   "license": "MIT",
   "private": true

@@ -1,5 +1,5 @@
 {
-  "name": "@nonius-software/tokens",
+  "name": "@my-package-name/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@nonius-software/ts-config": "*",
+    "@my-package-name/ts-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }
