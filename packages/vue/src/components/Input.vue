@@ -10,7 +10,7 @@
 
 <style>
 .my-input {
-  padding: 20px;
+  padding: 4px 8px;
   background-color: #FFF;
   color: #121214;
   border-radius: 8px;
